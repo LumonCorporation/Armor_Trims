@@ -3,7 +3,7 @@
 <h1> Armor Trims </h1>
 Добавляет броню с компонентами и атрибутами, основанную на отделке шаблонов<br><br>
 
-![Banner](https://i.imgur.com/zchbWqi.png)<br>
+![Banner](https://github.com/LumonCorporation/Armor_Trims/blob/main/files/Armor_Trims.png)<br>
 
 
 
